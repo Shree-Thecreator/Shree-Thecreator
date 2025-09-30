@@ -1,12 +1,24 @@
 ![Masterhead](https://media.licdn.com/dms/image/v2/D5612AQHIHnVztUOPZw/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1735042891908?e=2147483647&v=beta&t=cwtyD31peFr0Og3LGwcnukT7riYkYxZayjOOvjW1OIA)
 <h1 align="center">Hi 👋, I'm Shree</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://static.vecteezy.com/system/resources/previews/003/815/991/non_2x/female-programmer-doing-software-coding-free-vector.jpg">
-
-- 🌱 I’m currently learning **MERN Stack Development**
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
+<div>- 🌱 I’m currently learning **MERN Stack Development**
 
 - 💬 Ask me about **Coding process and workflow , Web design**
-
+</div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
