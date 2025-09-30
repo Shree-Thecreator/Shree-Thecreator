@@ -1,4 +1,4 @@
-![Masterhead](https://media.licdn.com/dms/image/v2/D5612AQHIHnVztUOPZw/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1735042891908?e=2147483647&v=beta&t=cwtyD31peFr0Og3LGwcnukT7riYkYxZayjOOvjW1OIA)
+![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
 <h1 align="center">Hi 👋, I'm Shree</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <picture>
@@ -15,11 +15,14 @@
     src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
   />
 </picture>
-<div>- 🌱 I’m currently learning **MERN Stack Development**
+<div>- 🌱 I’m currently learning :MERN Stack Development 
+<img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" align="right"
+  width=25%>
 
 - 💬 Ask me about **Coding process and workflow , Web design**
 </div>
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: 
+</h3>
 <p align="left">
 </p>
 
