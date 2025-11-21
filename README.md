@@ -1,4 +1,4 @@
-[](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
+<img src = "https://contentstatic.techgig.com/thumb/msid-122020592,width-800,resizemode-4/From-BASIC-to-FAANG-How-Self-Taught-Coders-Cracked-the-Code.jpg?53090">
 <h1 align="center">Hi 👋, I'm Shree</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <picture>
