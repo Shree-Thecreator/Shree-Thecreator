@@ -1,4 +1,4 @@
-<img src = "https://contentstatic.techgig.com/thumb/msid-122020592,width-800,resizemode-4/From-BASIC-to-FAANG-How-Self-Taught-Coders-Cracked-the-Code.jpg?53090">
+<img src = "[https://contentstatic.techgig.com/thumb/msid-122020592,width-800,resizemode-4/From-BASIC-to-FAANG-How-Self-Taught-Coders-Cracked-the-Code.jpg?53090](https://img.freepik.com/premium-vector/caucasian-female-software-developer-her-40s-debugging-program_1238364-89122.jpg?semt=ais_hybrid&w=740&q=80)">
 <h1 align="center">Hi 👋, I'm Shree</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <picture>
