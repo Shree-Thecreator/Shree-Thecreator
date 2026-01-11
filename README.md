@@ -1,4 +1,6 @@
-<img src = "https://img.freepik.com/free-vector/software-programmer-girl-office-work-vector-design_107791-20453.jpg">
+<p align="center">
+  <img src="https://img.freepik.com/free-vector/software-programmer-girl-office-work-vector-design_107791-20453.jpg" />
+</p>
 <h1 align="center">Hi 👋, I'm Shree</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <picture>
