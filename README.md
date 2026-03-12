@@ -12,7 +12,7 @@
 ---
 
 ### 🚀 About Me
-- 🌱 I’m currently deep-diving into **MERN Stack Development**
+- 🌱 I’m currently building Full-Stack applications with Next.js, TypeScript, and Prisma**
 - 🏗️ Building high-performance web apps with **Next.js**
 - 🧩 Solving problems with **DSA in C**
 - 💬 Ask me about **Frontend Workflow, Web Design, or Python automation**
